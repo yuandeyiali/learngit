@@ -8,7 +8,3 @@ gggggggg
 hhhh
 iii
 jjjjjjjj
-kkkkkkkk
-lllllll
-mmmmmmm
-nnnnnnn
