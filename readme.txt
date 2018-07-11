@@ -12,4 +12,8 @@ kkkkkkk
 llllll
 newnewnewnewnewnewnew
 oldoldoldoldol
+<<<<<<< HEAD
 momomomomomo
+=======
+momomomomomo
+>>>>>>> featurel
